@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- activity_sign_up_sign_in.xml & activity_reset_password.xml & activity_greetings.xml-->
+    <dimen name="padding_CoordinatorLayout">50dp</dimen>
+    <dimen name="textSize_form">24sp</dimen>
+    <dimen name="textSize_Button">18sp</dimen>
+    <dimen name="textSize_Button2">16sp</dimen>
+    <dimen name="textSize_email">16sp</dimen>
+    <dimen name="textSize_title">28sp</dimen>
+    <dimen name="progressBar_dimens">80dp</dimen>
+    <dimen name="padding_grettings">65dp</dimen>
+
+    <!-- fragment_menu_options.xml -->
+    <dimen name="textSize_buttons">30sp</dimen>
+
+    <!-- top_list_row.xml -->
+    <dimen name="padding_list_item">6dp</dimen>
+    <dimen name="testSize_list_item">20sp</dimen>
+
+    <!-- fragment_top_list.xml -->
+    <dimen name="layout_paddingLeft">48dp</dimen>
+    <dimen name="layout_paddingRight">48dp</dimen>
+    <dimen name="marginTop_textView">16dp</dimen>
+    <dimen name="marginBottom_textView">16dp</dimen>
+    <dimen name="textSize_textView">14sp</dimen>
+    <dimen name="textSize_button">16sp</dimen>
+    <dimen name="buttons_marginLeft">64dp</dimen>
+    <dimen name="buttons_marginRight">64dp</dimen>
+
+    <!-- fragment_connect_me.xml -->
+    <dimen name="textSize_TextView">26sp</dimen>
+    <dimen name="textSize_btn">26sp</dimen>
+    <dimen name="paddingLeft_LinearLayout">70dp</dimen>
+    <dimen name="paddingRight_LinearLayout">70dp</dimen>
+    <dimen name="paddingBottom_LinearLayout">20dp</dimen>
+    <dimen name="margin_bottom_TV">44dp</dimen>
+    <dimen name="view_height">45dp</dimen>
+
+    <!-- activity_score.xml -->
+    <dimen name="textSize_scoreResult_levelUp">26sp</dimen>
+    <dimen name="padding_RelativeLayout">80dp</dimen>
+    <dimen name="textSize_okButton">26sp</dimen>
+    <dimen name="padding_LinearLayout">40dp</dimen>
+
+
+    <dimen name="textSize_Buttons">22sp</dimen>
+</resources>

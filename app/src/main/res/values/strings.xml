@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Angol szókincs teszt</string>
+    <string name="last_result">Az utolsó teszt\neredménye:</string>
+    <string name="overall_result">Átlagos\nteljesítményed\n%1$s teszt alapján:</string>
+    <string name="start_test">Teszt indítása</string>
+    <string name="last_score">%1$s /10</string>
+</resources>
+
+
