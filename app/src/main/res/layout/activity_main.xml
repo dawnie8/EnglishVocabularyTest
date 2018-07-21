@@ -11,6 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="0.4"
+        android:elevation="8dp"
         android:padding="16dp">
 
         <LinearLayout
@@ -32,7 +33,7 @@
                 android:id="@+id/results_last"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="18dp"
+                android:layout_marginBottom="20dp"
                 android:gravity="center"
                 android:textSize="20sp"
                 android:textStyle="bold"/>
@@ -58,8 +59,8 @@
             <ToggleButton
                 android:id="@+id/sound_toggle"
                 style="@style/toggleButton"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginBottom="16dp"
                 android:layout_marginTop="16dp"
@@ -74,8 +75,9 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_marginTop="18dp"
-        android:layout_weight="0.15"
+        android:layout_weight="0.1"
         android:background="@color/colorAccent"
+        android:elevation="8dp"
         android:text="@string/start_test"
         android:textColor="#ffffff"
         android:textSize="22sp"
