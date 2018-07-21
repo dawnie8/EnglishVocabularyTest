@@ -64,7 +64,6 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra("score", last_score);
         startActivity(intent);
         overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
-        finish();
     }
 
     public void saveMuteState(View v) {
