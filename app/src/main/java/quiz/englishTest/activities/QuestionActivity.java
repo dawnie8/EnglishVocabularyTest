@@ -321,6 +321,7 @@ public class QuestionActivity extends AppCompatActivity {
                     .setPositiveButton(R.string.exit, new DialogInterface.OnClickListener() {
                         public void onClick(DialogInterface dialog, int id) {
                             getActivity().finish();
+                            getActivity().overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
                         }
                     })
                     .setNegativeButton(R.string.stay, new DialogInterface.OnClickListener() {
